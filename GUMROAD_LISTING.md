@@ -1,7 +1,7 @@
 # ClawVault — Gumroad Product Listing
 
 ## Product title
-ClawVault — Self-Healing API Management for OpenClaw (20 Vendors)
+ClawVault — Self-Healing API Management for OpenClaw (60 Vendors)
 
 ## Price
 $29 (one-time)
@@ -98,7 +98,7 @@ No separate keyfiles. No environment variables. One file, everything you need.
 ### What's NOT included in the free ClawHub tier
 
 The free tier gives you the template and workflow. The paid tier gives you 
-20 working vendor registrations, the auto-generator that builds new ones, 
+60 working vendor registrations, the auto-generator that builds new ones, 
 and complete test scripts for every vendor.
 
 If you've ever spent an afternoon debugging why your OpenClaw agent suddenly 
